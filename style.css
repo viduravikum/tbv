@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu|Nunito');
+
+#photo {
+    height: 300px;
+    margin: 20px;
+    float: left;
+    width: 180px;
+    background-color: #867676;
+}
+#myName, #jobTitle{
+    color: rgb(56, 141, 170);
+    font-family: "Nunito";
+}
+#intro {
+    float: left;
+    text-align: justify;
+    width: 1000px;
+    margin: 5px;
+    margin-top: 17px;
+    
+
+}
+
+#head1 {
+    color: whitesmoke;
+    background-color: #867676;
+    width: 150px;
+    
+
+}
+body {
+    background-color:violet;
+    font-family: "Ubuntu";
+    
+}
+nav a {
+    text-decoration: none;
+    margin-right: 25px;
+    color: black;
+    border-bottom: 4px dotted black;
+    
+    
+}
+nav a:hover{
+    background-color: yellow;
+}
+#nav {
+    float: Right;
+    margin-right: 120px;
+}
